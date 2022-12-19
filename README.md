@@ -1,4 +1,4 @@
-# World_Cup_Winners_script
+# World_Cup_Winners_Web_Scraping
 
 This is a script that takes data from wikipedia page and display it in csv file
 
